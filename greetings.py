@@ -15,6 +15,4 @@ if __name__ == "__main__":
     # --- ADD YOUR GREETING BELOW THIS LINE ---
     # Greeting from a-gobjila
     print("Hello from a-gobjila!")
-    print("Hello from tommydavies-byte")  #this is a greeting from me
-                                          #this is a test comment
 
